@@ -1,6 +1,13 @@
-# Don 
+# Dōn 
 
 https://germanic.ge/en/ang/word/d%C3%B3n/
+
+#### Part of speech: verb
+#### Verb type: irregular verb
+(p sing dyde; p.p. dón, dén) 1. to do, make; 2. to put, place
+### Etymology
+[Mod E DO ← Prot-Germ *dōn; O Fris dwā, dua; O Sax dōn; Dt doen; OHG tuon (Mod G tun) ← Indo-Europ *dhē-, *dhō-; Sanskr dádhāti “puts”; Avest daδāiti “puts”; Anc Gr θήσω “puts”; O Slav дѣти “to put” (Russ деть)]
+### Paradigm
 
 (a) The verb dōn (p sing dyde; p.p. dōn, dēn) (to do).
 
@@ -34,7 +41,7 @@ Shown below is the conjugation paradigm for the v dōn.
 |---|
 |dōende, dōnde|
 
-past tense
+### past tense
 
 |indicative mood||
 |---|-|
